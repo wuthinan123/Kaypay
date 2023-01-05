@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372297203792",
+    "project_id": "kaypay-e6df3",
+    "storage_bucket": "kaypay-e6df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372297203792:android:e2018c527cd13e28f11155",
+        "android_client_info": {
+          "package_name": "com.example.kaypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372297203792-4enhae2e484d1874ceboqqjn4fjo8qlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpYFrlJnsmwrmMjX4g6GRYNzrf94IdrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372297203792-4enhae2e484d1874ceboqqjn4fjo8qlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

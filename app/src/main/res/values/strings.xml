@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kay&amp;&amp;Pay</string>
+    <string name="welcome_back">Welcome!!</string>
+    <string name="we_don_t_leave_you_alone">We Don\'t Leave You Alone</string>
+    <string name="kaypaylogo">kaypaylogo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="join">JOIN</string>
+    <string name="host">HOST</string>
+</resources>
